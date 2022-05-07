@@ -1,0 +1,19 @@
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: Calibri;
+	font-size: 20px;
+	background: #f2ffff;
+}
+
+h1, h2, h3 {
+	font-family: Calibri;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
